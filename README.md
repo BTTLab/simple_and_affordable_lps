@@ -35,3 +35,4 @@ This repository includes the KiCad project files:
 - `.kicad_pcb` - PCB layout.
 
 and Gerber files: `Gerber.zip`
+The PCB is 150 x 100 mm, 4 layers, THT + SMD components.
